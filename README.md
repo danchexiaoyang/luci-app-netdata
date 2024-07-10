@@ -1,1 +1,1 @@
-# luci-app-netdata
+# luci-app-netdata中文
